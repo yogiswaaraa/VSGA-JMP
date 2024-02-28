@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">aplikasi_kpu</string>
+    <string name="informasi">Informasi</string>
+    <string name="entri_data">Entri Data</string>
+    <string name="lihat_data">Lihat Data</string>
+    <string name="cek_lokasi">Cek Lokasi</string>
+    <string name="logout">Logout</string>
+    <string name="masukkan_nik">Masukkan NIK</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_alamat">Masukkan Alamat</string>
+    <string name="masukkan_jenis_kelamin">Masukkan Jenis Kelamin</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="nik">NIK</string>
+    <string name="nik_pemilih">NIK Pemilih</string>
+    <string name="nama">Nama</string>
+    <string name="nama_pemilih">Nama Pemilih</string>
+    <string name="alamat">Alamat</string>
+    <string name="alamat_pemilih">Alamat Pemilih</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="jenis_kelamin_pemilih">Jenis Kelamin Pemilih</string>
+    <string name="update">UPDATE</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="username">Username</string>
+</resources>
